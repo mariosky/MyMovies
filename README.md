@@ -26,3 +26,5 @@ Se debe tener una instancia en AWS para mostrar la página.
 Debe estar disponible en un repositorio de GitHub.
 Se debe grabar un video de ~5 minutos explicando el proyecto.
 El repo debe tener issues e integrantes asignados a las tareas.
+
+Fecha de entrega: 22 de diciembre.
