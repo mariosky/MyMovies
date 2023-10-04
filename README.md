@@ -13,7 +13,7 @@ crear una [aplicación](https://docs.djangoproject.com/en/4.2/ref/contrib/admin/
 ![modelo](Modelo.jpg)
 
 El proyecto consiste en:
-1. Implementar mínimo el modelo que se muestra en la imágen.
+1. Implementar mínimo el modelo que se muestra dentro de las líneas punteadas en la imágen.
 2. Una página principal donde se muestren las películas más recientes.
 3. Una página para votar y/o reseñar una película.
 4. Una sección dónde se muestren varias películas recomendadas.
