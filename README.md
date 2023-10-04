@@ -17,8 +17,9 @@ El proyecto consiste en:
 2. Una página principal donde se muestren las películas más recientes.
 3. Una página para votar y/o reseñar una película.
 4. Una sección dónde se muestren varias películas recomendadas.
-5. Una página para ver el detalle de una película.
-6. Una página para ver el detalle de un actor.
+   * Se debe implementar un algoritmo de recomendación, por ejemplo, uno de  [filtrado colaborativo](https://github.com/mariosky/recommender/).
+6. Una página para ver el detalle de una película.
+7. Una página para ver el detalle de un actor.
 
 La aplicación se desarrollará en equipo.
 Se debe tener una instancia en AWS para mostrar la página.
