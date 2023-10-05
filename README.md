@@ -29,4 +29,8 @@ El proyecto consiste en:
 * Se debe grabar un video de ~5 minutos explicando el proyecto.
 * El repo debe tener issues e integrantes asignados a las tareas.
 
+### API
+
+Vamos a utilizar el API del sitio [TMDB](https://developer.themoviedb.org)
+
 Fecha de entrega: 22 de octubre.
