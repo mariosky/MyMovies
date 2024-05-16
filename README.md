@@ -38,4 +38,4 @@ Ejemplo del flujo para realizar una reseña:
 Vamos a utilizar el API del sitio [TMDB](https://developer.themoviedb.org) 
 
 
-Fecha de entrega: 22 de octubre.
+Fecha de entrega: 20 de mayo.
