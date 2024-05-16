@@ -21,6 +21,10 @@ El proyecto consiste en:
 6. Una página para ver el detalle de una película.
 7. Una página para ver el detalle de un actor.
 
+Ejemplo del flujo para realizar una reseña: 
+
+![flow](Flow.png)
+
 ## Detalles
 
 * La aplicación se desarrollará en equipo.
@@ -31,6 +35,7 @@ El proyecto consiste en:
 
 ### API
 
-Vamos a utilizar el API del sitio [TMDB](https://developer.themoviedb.org)
+Vamos a utilizar el API del sitio [TMDB](https://developer.themoviedb.org) 
+
 
 Fecha de entrega: 22 de octubre.
