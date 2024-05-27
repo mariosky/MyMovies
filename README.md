@@ -17,9 +17,11 @@ El proyecto consiste en:
 2. Una página principal donde se muestren las películas más recientes.
 3. Una página para votar y/o reseñar una película.
 4. Una sección dónde se muestren varias películas recomendadas.
-   * Se debe implementar un algoritmo de recomendación, por ejemplo, uno de  [filtrado colaborativo](https://github.com/mariosky/recommender/).
+   * Opcional: implementar un algoritmo de recomendación, por ejemplo, uno de  [filtrado colaborativo](https://github.com/mariosky/recommender/).
 6. Una página para ver el detalle de una película.
 7. Una página para ver el detalle de un actor.
+8. Una página para ver las reseñas de un usuario.
+9. El diseño web debe ser [responsivo](https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable). 
 
 Ejemplo del flujo para realizar una reseña: 
 
@@ -38,4 +40,4 @@ Ejemplo del flujo para realizar una reseña:
 Vamos a utilizar el API del sitio [TMDB](https://developer.themoviedb.org) 
 
 
-Fecha de entrega: 20 de mayo.
+Fecha de entrega: del 27 al 30 de mayo.
